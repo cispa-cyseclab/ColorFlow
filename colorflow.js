@@ -4,7 +4,7 @@ function schriftfarbeAendern() {
   textElement.style.color = zufallsfarbe;
 }
 
-var flag = "XMAS{ce490093a795db98ba4bcffe50a90db2}";
+// Geheime Information gelöscht!!! TODO: Bitte auch aus der Commit-History entfernen!!!
 // Die Funktion periodisch aufrufen (in diesem Beispiel alle 2 Sekunden)
 
 document.getElementById("TargetID").style.transition = "color 0.5";
